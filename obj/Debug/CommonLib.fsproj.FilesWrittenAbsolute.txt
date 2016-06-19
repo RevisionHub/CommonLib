@@ -3,3 +3,8 @@
 /home/harlan/BackendServer/CommonLib/bin/Debug/CommonLib.dll
 /home/harlan/BackendServer/CommonLib/obj/Debug/CommonLib.dll
 /home/harlan/BackendServer/CommonLib/obj/Debug/CommonLib.dll.mdb
+/home/harlan/RevisionHub/CommonLib/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/harlan/RevisionHub/CommonLib/bin/Debug/CommonLib.dll.mdb
+/home/harlan/RevisionHub/CommonLib/bin/Debug/CommonLib.dll
+/home/harlan/RevisionHub/CommonLib/obj/Debug/CommonLib.dll
+/home/harlan/RevisionHub/CommonLib/obj/Debug/CommonLib.dll.mdb

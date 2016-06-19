@@ -19,6 +19,7 @@ module Core =
         |GotPage = 1
         |GotFile = 2
         |Res404 = 3
+        |GotPost = 4
     type Packet = 
         {payloadsize : int; payloadverb : PayloadVerb; payload : byte[]}
         member x.ToByteArray() = Array.concat [|System.BitConverter.GetBytes(x.payloadsize);System.BitConverter.GetBytes(x.payloadverb|>int);x.payload|]
